@@ -1,0 +1,19 @@
+html{
+	background-color:#99568c;
+}
+.img1{
+	display: flex;
+	justify-content: left-center;
+	align-items: left-center;
+}
+.img2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#head1{
+	color: #eff774;
+	font-family: 'Righteous', cursive;
+	text-align: left-center;
+	font-size: 40px;
+}
